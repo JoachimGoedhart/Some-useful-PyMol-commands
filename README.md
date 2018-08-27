@@ -33,7 +33,8 @@ Show Symmetry neighbours:
 
 
 Align the structure of Tq2 with mCer3:  
-*File -> Open -> 4EN1_mCer3.pdb
+*File -> Open -> 4EN1_mCer3.pdb  
+
 *File -> Open -> 3ZTF-Tq2-Royant.pdb
 ~~~~
 PyMOL> hide (chain B) 
