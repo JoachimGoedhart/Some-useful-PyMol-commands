@@ -3,17 +3,17 @@
 
 Select residue 223, 206 and 145:
 
-PyMOL>select (i;223 i;206 i;145)
+'PyMOL>select (i;223 i;206 i;145)'
 
 
 Select all Alanines:
 
-PyMOL>select (r;ala)
+'PyMOL>select (r;ala)'
 
 
 Select atoms within 4 Angstrom of residue 206:
 
-PyMOL>select (i;206 around 4)
+'PyMOL>select (i;206 around 4)'
 
 
 Change color on chain B:
