@@ -3,7 +3,7 @@
 
 Select residue 223, 206 and 145:
 
-'PyMOL>select (i;223 i;206 i;145)'
+`PyMOL>select (i;223 i;206 i;145)`
 
 
 Select all Alanines:
