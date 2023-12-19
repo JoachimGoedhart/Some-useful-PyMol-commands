@@ -6,6 +6,11 @@ Select residue 223, 206 and 145:
 `PyMOL>select (i;223 i;206 i;145)`  
 ----
 
+Select residue 138, 140 and 142 from chain B only:
+
+`PyMOL>select chain B and (i;138 i;140 i;142)`
+---
+
 Select all Alanines:
 
 `PyMOL>select (r;ala)`  
